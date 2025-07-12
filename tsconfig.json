@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6", 
+    "lib": ["ES2015", "DOM"],
+    "module": "ES6",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "strict": true
+  },
+  "include": ["./**/*.ts"]
+}
