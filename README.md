@@ -1,19 +1,12 @@
 # 💱 Currency Converter App (TypeScript)
 
 A simple and modern Currency Converter built with **HTML**, **CSS**, and **TypeScript**.  
-Live exchange rates are fetched using the [ExchangeRate-API](https://www.exchangerate-api.com/).
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View Live App](https://<your-vercel-url>.vercel.app/)
-
----
-
-## 📸 Screenshot
-
-![Currency Converter Screenshot](./screenshot.png) <!-- Optional: Add screenshot later -->
+👉 [Click Here to View Live App]([https://<your-vercel-url>.vercel.app/](https://currency-converter-ts-khqr.vercel.app/))
 
 ---
 
@@ -22,7 +15,6 @@ Live exchange rates are fetched using the [ExchangeRate-API](https://www.exchang
 - HTML5
 - CSS3
 - TypeScript
-- [ExchangeRate-API](https://www.exchangerate-api.com/)
 - Flags API
 - Vercel (for Deployment)
 
