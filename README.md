@@ -6,7 +6,8 @@ A simple and modern Currency Converter built with **HTML**, **CSS**, and **TypeS
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View Live App]([https://<your-vercel-url>.vercel.app/](https://currency-converter-ts-khqr.vercel.app/))
+👉 [Click Here to View Live App
+(https://currency-converter-ts-khqr.vercel.app/))
 
 ---
 
@@ -104,8 +105,4 @@ Output Directory: dist
 
 Click Deploy
 
-### ✅ Step 8: Done 🎉
 
-Your live site is now deployed at:
-https://your-project-name.vercel.app
-````
